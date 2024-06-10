@@ -1,7 +1,6 @@
 
 **File Organizer by Creation Month**
 
-```markdown
 # File Organizer by Creation Month
 
 ## Description
